@@ -49,5 +49,5 @@ The link for the product backlog, time log, error log and release log can be fou
 
 ## License
 
-This software is released under the [BSD 3-Clause license](../blob/master/LICENSE). 
+This software is released under the [BSD 3-Clause license](./LICENSE.txt). 
 
