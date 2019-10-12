@@ -16,8 +16,8 @@ Human detector module is an open-source perception module for the autonomous veh
 ## Personnel
  - Sandeep Kota Sai Pavan (Email: skotasai@umd.edu, [LinkedIn: ](https://www.linkedin.com/in/sandeepkota341997/)): A graduate student of Masters in Engineering - Robotics at University of Maryland, College Park. I'm a robotics enthusiast having expereince of working at Shafiee Lab, Harvard Medical School and an autonomous vehicle company, FLUX Auto. 
 
-  - Satyarth Praveen (Email: satyart@umd.edu, [LinkedIn: ](https://www.linkedin.com/in/satyarth934/)): I am currently a Robotics graduate student at the University of Maryland College Park.
-I was previously employed at Hi-Tech Robotic Systemz where I was involved with the development of Unmanned Ground Vehicles (autonomous vehicles). I find my interest in Artificial Intelligence.
+  - Satyarth Praveen (Email: satyarth@umd.edu, [LinkedIn: ](https://www.linkedin.com/in/satyarth934/)): I am currently a Robotics graduate student and a Graduate Teaching Assistant with the Department of Mathematics at the University of Maryland College Park.
+I was previously employed at Hi-Tech Robotic Systemz where I was involved with the perception group of the Unmanned Ground Vehicles (autonomous vehicles). I find my interest in Artificial Intelligence.
 
 
 ## Project Overview
